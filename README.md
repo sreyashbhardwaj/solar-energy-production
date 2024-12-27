@@ -61,3 +61,4 @@ Refrences
 ------
 - [Neural Designer](https://www.neuraldesigner.com/)
 - [Get Data](https://www.neuraldesigner.com/files/datasets/solarpowergeneration.csv)
+- Author Sreyash Bhardwaj
